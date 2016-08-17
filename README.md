@@ -1,2 +1,2 @@
 # test
-just a test project
+just a test project for TeX/LaTeX/Lyx
